@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "./App";
+import "./App.tsx";
 import { ThemeProvider } from "./context/ThemeContext";
 import BodyStyle from "./components/BodyStyle";
 
